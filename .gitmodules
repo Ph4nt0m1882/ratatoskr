@@ -1,0 +1,6 @@
+[submodule "ratatoskr_daemon"]
+	path = ratatoskr_daemon
+	url = https://github.com/Ph4nt0m1882/ratatoskr_daemon
+[submodule "ratatoskr_client"]
+	path = ratatoskr_client
+	url = https://github.com/Ph4nt0m1882/ratatoskr_client
